@@ -1,0 +1,2 @@
+model.DVD -!- As aventuras de tintim -!- 9.99 -!- 397113 -!- Filme bom -!- 
+model.CD -!- Baile - FBC -!- 9.99 -!- 180581 -!- 0 -!- 

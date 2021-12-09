@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="midias:jar">
+    <output-path>$USER_HOME$/Documents/midia</output-path>
+    <root id="archive" name="midias.jar">
+      <element id="module-output" name="midias" />
+    </root>
+  </artifact>
+</component>

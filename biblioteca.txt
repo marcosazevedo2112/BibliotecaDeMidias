@@ -1,0 +1,4 @@
+model.DVD -!- As aventuras de tintim -!- 9.99 -!- 797438 -!- sinopse1 -!- 
+model.DVD -!- As aventuras de tintim 2 -!- 19.99 -!- 824624 -!- sinopse2 -!- 
+model.DVD -!- As aventuras de tintim 3 -!- 29.99 -!- 127170 -!- sinopse3 -!- 
+model.CD -!- As melhores - trio parada dura -!- 5.90 -!- 545455 -!- 12
