@@ -1,11 +1,11 @@
-#Biblioteca de Midias v2000
+# Biblioteca de Midias v2000
 Apos eu ter perdido meu antigo projeto de LLP(Biblioteca de midias v1000), decidi criar a versão v2000, mais bonita, com mais performance e com novas funções!
 ____
 
-##Para rodar
+## Para rodar
 é recomendado usar o [IntelliJ IDEA da jetbrains](https://www.jetbrains.com/pt-br/idea/ "link do IntelliJ IDEA no site da JetBrains") com o Java SDK 17(Usado por mim), porém acredito que deva funcionar em versões anteriores, pois não utiliza nenhuma classe ou função nova da linguagem.
 
-##Arquivo de biblioteca
+## Arquivo de biblioteca
 Quando se usa as funções 5 e 6 é criado(caso não exista) um arquivo chamado ```"biblioteca.txt"``` no *Working Directory*  que segue a seguinte estrutura:
 
 ```Tipo -!- Nome -!- Preço -!- Codigo -!- Sinopse/Nfaixas```
@@ -28,7 +28,7 @@ Para facilitar a visualização esse arquivo também pode ser visto como uma tab
 |             `model.CD`              |       Baile - FBC        |     22.90     |   578890    |              12              |
 
 
-##Screenshots
+## Screenshots
 
 ![terminal com o programa sendo rodado](https://github.com/marcosazevedo2112/BibliotecaDeMidias/blob/master/imgs%20readme/1.png)
 ![terminal com o programa sendo rodado](https://github.com/marcosazevedo2112/BibliotecaDeMidias/blob/master/imgs%20readme/2.png)
