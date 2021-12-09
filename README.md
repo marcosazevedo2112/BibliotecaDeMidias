@@ -29,3 +29,8 @@ Para facilitar a visualização esse arquivo também pode ser visto como uma tab
 
 
 ##Screenshots
+
+![terminal com o programa sendo rodado](https://github.com/marcosazevedo2112/BibliotecaDeMidias/blob/master/imgs%20readme/1.png)
+![terminal com o programa sendo rodado](https://github.com/marcosazevedo2112/BibliotecaDeMidias/blob/master/imgs%20readme/2.png)
+![terminal com o programa sendo rodado](https://github.com/marcosazevedo2112/BibliotecaDeMidias/blob/master/imgs%20readme/3.png)
+![terminal com o programa sendo rodado](https://github.com/marcosazevedo2112/BibliotecaDeMidias/blob/master/imgs%20readme/4.png)
